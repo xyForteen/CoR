@@ -4,8 +4,8 @@ Sparse Gaussian Conditional Random Fields on top of Recurrent Neural Networks
 This is the sample code for the paper "Sparse Gaussian Conditional Random Fields on top of Recurrent Neural Networks",
 which will appear in the proceedings of AAAI 2018.
 
-Dependencies:
-Python 2.7, theano and lasagne
+Tested on:
+Python 2.7.12, theano 0.8.2 and lasagne 0.2.dev1.
 
 Usage:
 Feature data and a sample base RNN model is applied.
