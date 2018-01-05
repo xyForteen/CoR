@@ -1,6 +1,5 @@
 """
-# Solar Energy Prediction with RNN
-# Sheldon Wang, UoW, Dec, 28, 2016
+
 # THIS file is for the architeture of RNN
 """
 import lasagne
