@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-# Hourly Solar Energy Prediction with RNN
-# Sheldon Wang, UoW, Dec, 28th, 2016
-# THIS file is for RNN training
+Joint training of CoR
 """
 import gc
 import os
